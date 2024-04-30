@@ -1,0 +1,45 @@
+
+.box{
+    width: 1230px;
+    height: 700px;
+    background-image: url(images/background.png);
+}
+.rer{
+    display: flex;
+}
+.rer3{
+    width: 350px;
+    height: 290px;
+    background-image: url(./images/odamcha.png);
+}
+.rer4{
+    width: 350px;
+    margin-left: 100px;
+    height: 290px;
+    background-image: url(./images/qo\'l.png);
+}
+.rer5{
+    margin-left: 100px;
+    width: 350px;
+    height: 290px;
+    background-image: url(./images/ikki\ odam.png);
+}
+.rer7{
+    width: 350px;
+    margin-left: 100px;
+    height: 290px;
+    background-image: url(./images/ayolcha.jpg);
+}
+.rer44{
+    width: 600px;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    background-color: rgb(202, 201, 201);
+}
+.rer55{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 5px;
+}
